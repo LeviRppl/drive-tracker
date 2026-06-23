@@ -1,0 +1,10 @@
+{
+  "name": "Drive Tracker",
+  "short_name": "Drive",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#f5f5f7",
+  "theme_color": "#34c759",
+  "icons": []
+}
